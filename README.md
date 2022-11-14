@@ -1,2 +1,2 @@
 # shkrimi-jawa
-Papelería sistematizada
+Papelería venta de productos
